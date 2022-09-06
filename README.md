@@ -9,4 +9,4 @@
   - [Diagrama Oficina](https://github.com/SamuelMPedroso/DataBaseExperience/blob/main/Diagrama-Oficina.png)
   
 3 - Persistindo e Recuperado Dados a partir de Consultas SQL no Banco de Dados. Refinado o banco a partir do diagrama, persistidas as informações para consultas e criadas queries para realizar as consultas.
-  - [Diagrama E-commerce Com Dados Persistidos E Queries](https://github.com/83Rafa/Diagrama-Entidade-Relacionamento/tree/Diagrama-E-commerce-Com-Dados-Persistidos-E-Queries)
+  - [Diagrama E-commerce Com Dados Persistidos E Queries] (https://github.com//Diagrama-Entidade-Relacionamento/tree/Diagrama-E-commerce-Com-Dados-Persistidos-E-Queries)
